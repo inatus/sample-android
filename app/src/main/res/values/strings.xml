@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MapSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">OK</string>
+    <string name="map_selection">Choose Map</string>
+    <string name="title_activity_map_selection">MapSelectionActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
